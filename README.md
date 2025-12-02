@@ -23,4 +23,4 @@ RSI 전략을 기반으로 매수/매도 신호를 판단하고, 모의투자 �
 - Python 3.9 이상 설치
 - pip 패키지 설치:
   ```bash
-  pip install requests pandas python-dotenv pytz# myinvest13578
+  pip install requests pandas python-dotenv pytz
